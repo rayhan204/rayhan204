@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Perkenalkan nama saya **Rayhan**.<br>
-
-Saya seorang **frontend developer | Bangkit Academy Mobile Development 2024**<br>
+**Bangkit Academy Mobile Development 2024**<br>
 
 Saya Belajar di Dicoding dengan berbagai pencapaian[sertifikasi dari Dicoding Indonesia dan Bangkit Academy]([https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M](https://drive.google.com/drive/folders/1F9zQETSrU6QmiuYAxFb7qI_4mdQ7n7uh?hl=id)).<br>
 
