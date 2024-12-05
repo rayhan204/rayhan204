@@ -3,6 +3,12 @@
 Perkenalkan nama saya **Rayhan**.<br>
 **Bangkit Academy Mobile Development 2024**<br>
 
+Saya adalah mahasiswa Teknik Informatika dengan minat yang kuat pada pemrograman, khususnya pengembangan aplikasi mobile menggunakan Kotlin. Sebagai anggota Mobile Development cohort Bangkit Academy 2024, saya terus memperdalam pengetahuan dalam pengembangan aplikasi mobile menggunakan Kotlin. menerapkan mechine learning kedalam aplikasi android.
+
+Dalam proyek Capstone yang bertema Healthy Skin untuk mengklassifikasikan tipe kulit, saya berkontribusi sebagai Mobile Developer dengan merancang menggunakan Figma, membuat flowchart, dan mengembangkan aplikasi menggunakan Android Studio. Saya juga aktif berkolaborasi dengan tim melalui GitHub dengan mengelola tugas seperti push kode, membuat pull request, dan melakukan merge kontribusi untuk memastikan kerja sama tim berjalan lancar.
+
+Saya berkomitmen untuk terus mengasah keterampilan melalui pembelajaran berkelanjutan dan praktik langsung dalam pengembangan aplikasi mobile menggunakan Kotlin, dengan tools Android Studio untuk membangun aplikasi yang user-friendly.
+
 Saya Belajar di Dicoding dengan berbagai pencapaian [sertifikasi dari Dicoding Indonesia dan Bangkit Academy]([https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M](https://drive.google.com/drive/folders/1F9zQETSrU6QmiuYAxFb7qI_4mdQ7n7uh?hl=id)).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-ray-022933244/) ku ya.
