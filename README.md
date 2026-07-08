@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Rayhan**.<br>
 **Bangkit Academy Mobile Development 2024**<br>
 
-Saya adalah mahasiswa Teknik Informatika dengan minat yang kuat pada pemrograman, khususnya pengembangan aplikasi mobile menggunakan Kotlin. Sebagai anggota Mobile Development cohort Bangkit Academy 2024, saya terus memperdalam pengetahuan dalam pengembangan aplikasi mobile menggunakan Kotlin. menerapkan mechine learning kedalam aplikasi android.
+Fresh Graduate Teknik Informatika dengan minat yang kuat pada pemrograman, khususnya pengembangan aplikasi mobile menggunakan Kotlin. Sebagai anggota Mobile Development cohort Bangkit Academy 2024, saya terus memperdalam pengetahuan dalam pengembangan aplikasi mobile menggunakan Kotlin. menerapkan mechine learning kedalam aplikasi android.
 
 Dalam proyek Capstone yang bertema Healthy Skin untuk mengklassifikasikan tipe kulit, saya berkontribusi sebagai Mobile Developer dengan merancang menggunakan Figma, membuat flowchart, dan mengembangkan aplikasi menggunakan Android Studio. Saya juga aktif berkolaborasi dengan tim melalui GitHub dengan mengelola tugas seperti push kode, membuat pull request, dan melakukan merge kontribusi untuk memastikan kerja sama tim berjalan lancar.
 
