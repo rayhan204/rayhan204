@@ -1,36 +1,168 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rayhan
 
-Perkenalkan nama saya **Rayhan**.<br>
-**Bangkit Academy Mobile Development 2024**<br>
+## 🚀 Full Stack Developer | Android Developer | System Analyst
 
-Fresh Graduate Teknik Informatika dengan minat yang kuat pada pemrograman, khususnya pengembangan aplikasi mobile menggunakan Kotlin. Sebagai anggota Mobile Development cohort Bangkit Academy 2024, saya terus memperdalam pengetahuan dalam pengembangan aplikasi mobile menggunakan Kotlin. menerapkan mechine learning kedalam aplikasi android.
+Fresh Graduate in Informatics Engineering with a strong passion for software engineering, specializing in **Full Stack Web Development**, **Android Development**, and **System Analysis**.
 
-Dalam proyek Capstone yang bertema Healthy Skin untuk mengklassifikasikan tipe kulit, saya berkontribusi sebagai Mobile Developer dengan merancang menggunakan Figma, membuat flowchart, dan mengembangkan aplikasi menggunakan Android Studio. Saya juga aktif berkolaborasi dengan tim melalui GitHub dengan mengelola tugas seperti push kode, membuat pull request, dan melakukan merge kontribusi untuk memastikan kerja sama tim berjalan lancar.
+I enjoy designing and building scalable applications from end to end, starting from **system analysis, software architecture, database design, REST API development, frontend implementation, deployment, and technical documentation**.
 
-Saya berkomitmen untuk terus mengasah keterampilan melalui pembelajaran berkelanjutan dan praktik langsung dalam pengembangan aplikasi mobile menggunakan Kotlin, dengan tools Android Studio untuk membangun aplikasi yang user-friendly.
+I have hands-on experience developing modern web applications using **React.js**, **Express.js**, **PostgreSQL**, and **Prisma ORM**, as well as Android applications using **Kotlin** and **Android Studio**.
 
-Saya Belajar di Dicoding dengan berbagai pencapaian [sertifikasi dari Dicoding Indonesia dan Bangkit Academy]([https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M](https://drive.google.com/drive/folders/1F9zQETSrU6QmiuYAxFb7qI_4mdQ7n7uh?hl=id)).<br>
+Beyond coding, I also enjoy designing software systems by creating:
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-ray-022933244/) ku ya.
+- Software Architecture
+- Entity Relationship Diagram (ERD)
+- Database Design
+- REST API Documentation
+- Business Flow
+- System Documentation
+- Deployment Architecture
 
-### Github Statistic
-<p align="left">
+I believe that good software is not only about writing code but also about designing maintainable systems and producing clear technical documentation.
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Backend
+
+- Express.js
+- Node.js
+- REST API
+- JWT Authentication
+- Prisma ORM
+- Swagger
+- Zod Validation
+
+### Database
+
+- PostgreSQL
+- MySQL
+- Prisma ORM
+
+### Mobile Development
+
+- Kotlin
+- Android Studio
+- MVVM
+- XML Layout
+- Firebase
+
+### System Analysis
+
+- Software Architecture
+- Database Design
+- ERD
+- API Documentation
+- Business Process Modeling
+- UML
+- System Documentation
+
+### DevOps
+
+- Git
+- GitHub
+- Railway
+- Vercel
+- Neon PostgreSQL
+
+### Design
+
+- Figma
+
+---
+
+# 🚀 Featured Projects
+
+## 🪙 GoldVest
+
+Digital Gold Investment Platform
+
+### Features
+
+- JWT Authentication
+- Role Based Authorization
+- Wallet Management
+- Gold Trading
+- Portfolio Management
+- Dashboard Analytics
+- Transaction History
+- Admin Dashboard
+- Swagger Documentation
+
+### Tech
+
+React • Express • PostgreSQL • Prisma • Railway • Vercel
+
+---
+
+## 📱 Skinology
+
+Android application for skin type classification using Machine Learning.
+
+Tech Stack:
+
+- Kotlin
+- Android Studio
+- TensorFlow Lite
+- Firebase
+
+---
+
+## 🌍 Crime Hotspot Mapping
+
+Web GIS application for crime hotspot analysis using Kernel Density Estimation (KDE).
+
+Tech Stack
+
+- Python
+- Streamlit
+- GeoPandas
+- Rasterio
+- Folium
+
+---
+
+# 📜 Certifications
+
+- Bangkit Academy 2024 – Mobile Development
+- Dicoding Indonesia Certifications
+- BNSP Junior Web Programmer
+
+📂 Certificates
+
+https://drive.google.com/drive/folders/1F9zQETSrU6QmiuYAxFb7qI_4mdQ7n7uh
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
 <a href="https://github.com/rayhan204">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayhan204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayhan204&layout=compact&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayhan204&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayhan204&layout=compact&theme=algolia"/>
 </a>
 </p>
-<!--
-**rayhan204/rayhan204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Connect with Me
+
+- 💼 LinkedIn
+  https://www.linkedin.com/in/rayhan-ray-022933244/
+
+- 💻 GitHub
+  https://github.com/rayhan204
+
+---
+
+> **"Design the system first. Write the code second."**
